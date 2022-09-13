@@ -6,8 +6,8 @@
 Mais uma semana top de desenvolvimento rolando com a Rocketseat.
 
 
-  - [Descrição](#description)
-  - [Ferramentas](#stack-and-tools)
+  - [Descrição](#descrição)
+  - [Ferramentas](#ferramentas)
 
 ## Descrição
 
