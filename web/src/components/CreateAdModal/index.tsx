@@ -105,7 +105,7 @@ export function CreateAdModal() {
 
           <div className="flex gap-6">
             <div className="flex flex-col gap-2">
-              <label htmlFor="weekDays">Quando costuma jogar?</label>
+              <label htmlFor="weekDays">Dias em que joga?</label>
 
 
               <ToggleGroup.Root
