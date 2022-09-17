@@ -34,6 +34,8 @@ export function CreateAdModal() {
     console.log(data);
     console.log(useVoiceChannel);
 
+
+    
     if(!data.name) {
       return;
     }
